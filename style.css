@@ -1,0 +1,260 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background: black;
+    padding: 20px;
+}
+
+
+.left_content {
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-left: 86px;
+
+}
+
+
+
+
+
+
+.right_content {
+
+    font-family: sans-serif;
+    font-size: 30px;
+    float: right;
+    margin-top: -68px;
+
+
+}
+
+.right_content ul li {
+    display: inline-block;
+    margin-left: 20px;
+
+
+}
+
+
+
+.right_content ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+
+}
+
+.right_content ul li a:hover {
+    color: orangered;
+}
+
+.banner_area {
+    background-image: url('img/abstract-1850424_1920.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    padding: 80px 20px;
+
+}
+
+.banner_area img {
+    margin-left: 500px;
+
+}
+
+.text {
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.font i {
+    color: orangered;
+    font-size: 50px;
+    margin-left: 601px;
+    margin-top: 32px;
+}
+
+
+
+.text2 {
+    color: black;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.service {
+    height: 700px;
+    padding: 80px 20px;
+
+}
+
+.portfolio {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-right: 48px;
+
+
+}
+
+.font2 i {
+    font-size: 50px;
+    color: orangered;
+    margin-left: 615px;
+    margin-top: 18px;
+
+}
+
+
+.service_one img {
+    width: 25.33%;
+    margin: 40px;
+    float: left;
+
+}
+
+.service_one img:hover {
+    transform: translateY(-30px)
+}
+
+.about {
+    background-image: url(img/aboutback.jpg);
+    height: 450px;
+    padding: 80px 20px;
+
+}
+
+.about h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: black;
+
+}
+
+.font3 {
+    font-size: 50px;
+    color: orangered;
+    margin-left: 625px;
+    margin-top: 10px;
+
+}
+
+.aboutdetails {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: black;
+
+}
+
+.button {
+    margin-top: 124px;
+    margin-left: 596px;
+    background:  orangered;
+    color: white;
+
+}
+.contact_side{
+     height: 450px;
+    padding: 80px 20px;
+    
+    
+}
+
+.contact{
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.font4{
+    font-size: 50px;
+    color: orangered;
+    margin-left: 625px;
+    margin-top: 10px;
+
+    
+}
+
+.form{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    margin-left: 210px;
+
+
+}
+
+.pform {
+    font-family: sans-serif;
+    color: white;
+    
+
+
+}
+.button2{
+       margin-top: 45px;
+    margin-left: 283px;
+    background:  orangered;
+    color: white;
+
+}
+
+.last{
+    height: 50px;
+    padding:80px 20px;
+    background-image: url(img/last.jpg);
+    margin-top: 50px;
+    
+    
+}
+
+.left{
+    font-family: sans-serif;
+    float: left;
+    
+    
+}
+
+.left p{
+    color: white;
+    font-size:15px;
+
+}
+
+.right{
+    font-family: sans-serif;
+    float: right;
+    text-align: right;
+   
+}
+
+.right p{
+    color: white;
+}
+
+.footer{
+   background: black;
+    padding: 30px;
+}
+.footer mood{
+    text-align: center;
+    color: orangered;
+    
+}
+
